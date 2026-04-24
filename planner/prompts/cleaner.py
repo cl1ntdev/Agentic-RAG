@@ -1,0 +1,1 @@
+cleaner_prompt = "You are an assistant and you have to make the prompt more clearer and more specific. concise and remove uncessary information"
